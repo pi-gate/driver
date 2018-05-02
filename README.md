@@ -1,7 +1,7 @@
 <img src="https://ex-store.de/images/pi-gate/lo_pi-gate.png" height="25%" width="25%" alt="Pi-Gate®"><br>
 RadioHead Packet Radio library for Pi-Gate® board 
 =================================================
-<img align="center" src="https://ex-store.de/images/pi-gate/image1.png" height="40%" width="40%" alt="Pi-Gate®"><br>
+<p align="center"><img src="https://ex-store.de/images/pi-gate/image1.png" height="40%" width="40%" alt="Pi-Gate®"></p>
 
 ###Version 1.67
 
