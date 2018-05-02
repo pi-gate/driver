@@ -33,6 +33,8 @@ sudo make check
 
 Clone repository
 ```shell
+sudo apt update
+sudo apt install git
 git clone https://github.com/gerrylenz/pi-gate
 ```
 
@@ -54,6 +56,13 @@ RH_SX1276 rf433(RF433_CS_PIN, RF433_IRQ_PIN, RF433_RST_PIN);
 for 868Mhz Gate
 RH_SX1276 rf868(RF868_CS_PIN, RF868_IRQ_PIN, RF868_RST_PIN, RF868_TXE_PIN);
 
+```
+
+**Create samples**
+```shell
+cd cd pi-gate/examples/raspi/pi-gate/
+make
+sudo ./multiserver
 ```
 
 [1]: http://www.airspayce.com/mikem/arduino/RadioHead/
