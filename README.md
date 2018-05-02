@@ -14,6 +14,7 @@ This is a fork of the original RadioHead Packet Radio library for embedded micro
 - Added driver for Pi-Gate® board
 - Added samples for Pi-Gate® board
 
+Driver code is located under [RadioHead/RH_PI-GATE.cpp][6] and [RadioHead/RH_PI-GATE.h][6].
 Sample code for Raspberry PI is located under [RadioHead/examples/raspi/pi-gate][3] folder.
 
 ### Installation on Raspberry PI
@@ -69,3 +70,5 @@ sudo ./multiserver
 [2]: http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.67.zip
 [3]: https://github.com/gerrylenz/pi-gate/blob/master/examples/raspi/pi-gate
 [4]: https://github.com/gerrylenz/pi-gate/blob/master/examples/raspi/pi-gate/GateDefinitions.h
+[5]: https://github.com/gerrylenz/pi-gate/blob/master/RH_PI-GATE.cpp
+[6]: https://github.com/gerrylenz/pi-gate/blob/master/RH_PI-GATE.h
