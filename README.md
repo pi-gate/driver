@@ -10,6 +10,7 @@ This is a fork of the original RadioHead Packet Radio library for embedded micro
 ### features added with this fork
 =================================
 
+- Added driver for Pi-Gate board
 - Added samples for Pi-Gate board
 
 Sample code for Raspberry PI is located under [RadioHead/examples/raspi/pi-gate][3] folder.
@@ -24,7 +25,7 @@ git clone https://github.com/gerrylenz/pi-gate
 
 **Connection and pins definition**
 
-Boards pins (Chip Select, IRQ line, Reset and TXE) definition are set in the new [RadioHead/examples/raspi/pi-gate/GateDefinitions.h][24] file. In your code, you need to include the file definition like this
+Boards pins (Chip Select, IRQ line, Reset and TXE) definition are set in the new [RadioHead/examples/raspi/pi-gate/GateDefinitions.h][4] file. In your code, you need to include the file definition like this
 ```cpp
 #include "GateDefinitions.h"
 
