@@ -18,6 +18,7 @@ Sample code for Raspberry PI is located under [RadioHead/examples/raspi/pi-gate]
 
 ### Installation on Raspberry PI
 ================================
+
 You need install bcm2835 library
 
 This library consists of a single non-shared library and header file, which will be installed in the usual places by make install
@@ -34,6 +35,9 @@ Clone repository
 ```shell
 git clone https://github.com/gerrylenz/pi-gate
 ```
+
+### Coding
+================================
 
 **Connection and pins definition**
 
