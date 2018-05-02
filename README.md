@@ -1,4 +1,4 @@
-<img src="https://ex-store.de/frmware/pi-gate/lo_pi-gate.png" height="25%" width="25%" alt="Pi-Gate®">&nbsp;
+<img src="https://ex-store.de/images/pi-gate/lo_pi-gate.png" height="25%" width="25%" alt="Pi-Gate®">&nbsp;
 RadioHead Packet Radio library for Pi-Gate® board 
 =================================================
 
