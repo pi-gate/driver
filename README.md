@@ -1,5 +1,5 @@
-RadioHead Packet Radio library for embedded microprocessors
-===========================================================
+RadioHead Packet Radio library for Pi-Gate® board 
+=================================================
 
 ###Version 1.67
 
@@ -10,8 +10,8 @@ This is a fork of the original RadioHead Packet Radio library for embedded micro
 ### features added with this fork
 =================================
 
-- Added driver for Pi-Gate board
-- Added samples for Pi-Gate board
+- Added driver for Pi-Gate® board
+- Added samples for Pi-Gate® board
 
 Sample code for Raspberry PI is located under [RadioHead/examples/raspi/pi-gate][3] folder.
 
