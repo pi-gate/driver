@@ -31,8 +31,8 @@ Boards pins (Chip Select, IRQ line, Reset and TXE) definition are set in the new
 
 ```
 
+**Create an instance of a driver for 2 modules**
 ```cpp
-Create an instance of a driver for 2 modules
 for 433 Mhz Gate
 RH_SX1276 rf433(RF433_CS_PIN, RF433_IRQ_PIN, RF433_RST_PIN);
 for 868Mhz Gate
