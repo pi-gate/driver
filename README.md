@@ -4,7 +4,7 @@ RadioHead Packet Radio library for Pi-Gate® board
 
 ###Version 1.67
 
-This is a fork of the original RadioHead Packet Radio library for embedded microprocessors. It provides a complete object-oriented library for sending and receiving packetized messages via a variety of common data radios and other transports on a range of embedded microprocessors.
+This is a fork of the original RadioHead Packet Radio library for embedded microprocessors. It provides a complete object-oriented library for sending and receiving packetized messages via Semtech SX1276 chip on a range of embedded microprocessors.
 
 **Please read the full documentation and licensing from the original author [site][1]**
 
