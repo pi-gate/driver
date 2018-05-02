@@ -257,7 +257,7 @@
 #define RH_SX1276_PA_DAC_ENABLE                         0x07
 
 /////////////////////////////////////////////////////////////////////
-/// \class RH_SX1276 RH_SX1276.h <RH_SX1276.h>
+/// \class RH_SX1276 RH_PI-GATE.h <RH_PI-GATE.h>
 /// \brief Driver to send and receive unaddressed, unreliable datagrams via a LoRa 
 /// capable radio transceiver.
 ///
