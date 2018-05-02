@@ -1,4 +1,4 @@
-// RH_SX1276.h
+// RH_PI-GATE.h
 //
 // Original
 // Author: Mike McCauley (mikem@airspayce.com)
@@ -8,7 +8,7 @@
 // Changed
 // Author: Gernot Lenz (contact@pi-gate.net)
 // Copyright (C) 2018 Gernot Lenz
-// $Id: pi-gate.h,v 1.0 2018/05/01 $
+// $Id: RH_PI-GATE.h,v 1.0 2018/05/01 $
 
 #ifndef RH_SX1276_h
 #define RH_SX1276_h

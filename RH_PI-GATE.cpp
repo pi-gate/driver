@@ -1,4 +1,4 @@
-// pi-gate.cpp
+// RH_PI-GATE.cpp
 //
 // Original
 // Author: Mike McCauley (mikem@airspayce.com)
@@ -8,7 +8,7 @@
 // Changed
 // Author: Gernot Lenz (contact@pi-gate.net)
 // Copyright (C) 2018 Gernot Lenz
-// $Id: pi-gate.cpp,v 1.0 2018/05/01 $
+// $Id: RH_PI-GATE.cpp,v 1.0 2018/05/01 $
 
 #include <RH_PI-GATE.h>
 
