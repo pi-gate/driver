@@ -42,5 +42,5 @@ RH_SX1276 rf868(RF868_CS_PIN, RF868_IRQ_PIN, RF868_RST_PIN, RF868_TXE_PIN);
 
 [1]: http://www.airspayce.com/mikem/arduino/RadioHead/
 [2]: http://www.airspayce.com/mikem/arduino/RadioHead/RadioHead-1.67.zip
-[3]: https://github.com/hallard/RadioHead/tree/master/examples/raspi/pi-gate
-[4]: https://github.com/hallard/RadioHead/tree/master/examples/raspi/pi-gate/GateDefinitions.h
+[3]: https://github.com/gerrylenz/pi-gate/blob/master/examples/raspi/pi-gate
+[4]: https://github.com/gerrylenz/pi-gate/blob/master/examples/raspi/pi-gate/GateDefinitions.h
