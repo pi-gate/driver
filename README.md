@@ -51,16 +51,16 @@ Boards pins (Chip Select, IRQ line, Reset and TXE) definition are set in the new
 
 **Create an instance of a driver for 2 modules**
 ```cpp
-for 433Mhz Gate
+//for 433Mhz Gate
 RH_SX1276 rf433(RF433_CS_PIN, RF433_IRQ_PIN, RF433_RST_PIN);
-for 868Mhz Gate
+//for 868Mhz Gate
 RH_SX1276 rf868(RF868_CS_PIN, RF868_IRQ_PIN, RF868_RST_PIN, RF868_TXE_PIN);
 
 ```
 
 **Create samples**
 ```shell
-cd cd pi-gate/examples/raspi/pi-gate/
+cd pi-gate/examples/raspi/pi-gate/
 make
 sudo ./multiserver
 ```
