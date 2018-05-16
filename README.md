@@ -1,7 +1,7 @@
 <img src="https://ex-store.de/images/pi-gate/lo_pi-gate.png" height="25%" width="25%" alt="Pi-Gate®"><br>
 RadioHead Packet Radio library for 433MHz/868MHz<br>Pi-Gate® board 
 =================================================
-<p align="center"><img src="https://ex-store.de/images/pi-gate/image1.png" height="45%" width="45%" alt="Pi-Gate®"></p>
+<p align="center"><img src="https://ex-store.de/images/pi-gate/github.png" alt="Pi-Gate®"></p>
 
 ###Version 1.67
 
