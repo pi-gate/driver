@@ -37,7 +37,7 @@ Clone repository
 ```shell
 sudo apt update
 sudo apt install git
-git clone https://github.com/gerrylenz/pi-gate
+git clone https://github.com/pi-gate/driver
 ```
 
 ### Coding
