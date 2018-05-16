@@ -64,7 +64,7 @@ RH_SX1276 rf868(RF868_CS_PIN, RF868_IRQ_PIN, RF868_RST_PIN, RF868_TXE_PIN);
 ```shell
 cd pi-gate/examples/raspi/pi-gate/
 make
-sudo ./multiserver
+sudo ./multi_server
 ```
 
 [1]: http://www.airspayce.com/mikem/arduino/RadioHead/
