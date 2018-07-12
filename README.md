@@ -31,6 +31,7 @@ cd bcm2835-1.xx
 ./configure
 make
 sudo make check
+sudo make install
 ```
 
 Clone repository
